@@ -1,0 +1,27 @@
+{
+  "name": "web-personal",
+  "version": "1.0.0",
+  "description": "personal project landing page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dionfananie/web-personal.git"
+  },
+  "keywords": [
+    "react",
+    "landing",
+    "page",
+    "personal",
+    "web",
+    "project"
+  ],
+  "author": "dionLab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dionfananie/web-personal/issues"
+  },
+  "homepage": "https://github.com/dionfananie/web-personal#readme"
+}
